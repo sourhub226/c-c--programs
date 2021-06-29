@@ -4,7 +4,7 @@ Important C and C++ programs for students pursuing a degree in computer engineer
 
 All codes are tested and executed successfully.
 
-### Subjects
+### Subjects:
 
 1. Basic C programming (PL)
 2. Object oriented programming using C++ (OOP)
