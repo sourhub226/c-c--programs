@@ -15,10 +15,10 @@ where
 -   `pct_loss` gives the percentage of frames that are lost (0-99)
 -   `pct_cksum` gives the percentage of arriving frames that are bad (0-99)
 -   `debug_flags` enables various tracing flags:
-    1.  frames sent
-    2.  frames received
-    3.  timeouts
-    4.  periodic printout for use with long runs
+1. frames sent
+2. frames received
+3. timeouts
+4. periodic printout for use with long runs
 
 For example
 
@@ -34,7 +34,7 @@ The simulator consists of two code files, sim.c and worker.c, along with a commo
 
 The simulator uses three process:
 
-    main: controls the simulation
+    main:   controls the simulation
     M0:	machine 0 (sender for protocols 2 and 3)
     M1:	machine 1 (receiver for protocols 2 and 3)
 
