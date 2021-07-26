@@ -23,7 +23,7 @@
 
 -   `ftp>put filename` (to upload a file named filename to the server)
 -   `ftp>get filename` (to download a file named filename from the server)
--   `ftp>ls (to list the files under the present directory of the server)
+-   `ftp>ls` (to list the files under the present directory of the server)
 -   `ftp>cd directory` (to change the present working directory of the server)
 -   `ftp>pwd` (to display the present working directory of the server)
 -   `ftp>!ls` (to list the files under the present directory of the client)
