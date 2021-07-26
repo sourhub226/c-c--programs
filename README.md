@@ -11,3 +11,6 @@ All codes are tested and executed successfully.
 3. Data structures and algorithms (DSA)
 4. Automata languages and computation (ALC)
 5. Operating systems (OS)
+6. Computer networks (CN)
+7. Design and Analysis of Algorithms (DAA)
+8. Artificial Intelligence (AI)
