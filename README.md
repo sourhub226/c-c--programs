@@ -14,3 +14,4 @@ All codes are tested and executed successfully.
 6. Computer networks (CN)
 7. Design and Analysis of Algorithms (DAA)
 8. Artificial Intelligence (AI)
+9. Computer Graphics (CG)
