@@ -1,3 +1,5 @@
+All of the programs were run in **DEV C++** on **WINDOWS 10**.
+
 ## For graphics.h installation on windows:
 
 1. Download and extract all files from [here](https://drive.google.com/drive/folders/1G4E9ewjYdUwH23hxbl6TC6ZHo42f85zR?usp=sharing).

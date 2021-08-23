@@ -84,6 +84,7 @@ int main() {
 	int land1_points[]= {120,460,100,490,120,530,150,560,220,510,260,510,280,550,340,530,360,460,320,430,300,410,200,410};
 	int land2_points[]= {610,500,520,450,470,460,420,500,440,580,510,650,620,570};
 
+	//scene 1
 	setbkcolor(COLOR(168,223,255));
 	draw_rocket();
 	draw_earth(0,land1_points,land2_points);
@@ -99,6 +100,7 @@ int main() {
 		delay(25-i/4);
 	}
 
+	//scene 2
 	for(int i=0; i<=100; i++) {
 		setbkcolor(COLOR(168-i*1.68,224-i*2.24,252-i*2.52));
 		cleardevice();
@@ -108,6 +110,7 @@ int main() {
 		delay(40);
 	}
 
+	//scene 3
 	for(int i=0; i<=400; i++) {
 		setbkcolor(BLACK);
 		cleardevice();
