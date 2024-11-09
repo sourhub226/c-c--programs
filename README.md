@@ -1,6 +1,6 @@
 ## C and C++ programs
 
-[![Visits Badge](https://badges.pufler.dev/visits/sourhub226/c-cpp-programs)](https://badges.pufler.dev)
+![](https://views.whatilearened.today/views/github/sourhub226/c-cpp-programs.svg)
 
 
 Important C and C++ programs for students pursuing a degree in computer engineering.
