@@ -1,5 +1,8 @@
 ## C and C++ programs
 
+[![Visits Badge](https://badges.pufler.dev/visits/sourhub226/c-cpp-programs)](https://badges.pufler.dev)
+
+
 Important C and C++ programs for students pursuing a degree in computer engineering.
 
 All codes are valid and executed successfully.
@@ -15,3 +18,4 @@ All codes are valid and executed successfully.
 7. Design and Analysis of Algorithms (DAA)
 8. Artificial Intelligence (AI)
 9. Computer Graphics (CG)
+
